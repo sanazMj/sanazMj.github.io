@@ -1,2 +1,2 @@
 # sanazMj.github.io
-theme: minima
+theme: Cayman
