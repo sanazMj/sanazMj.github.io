@@ -31,7 +31,7 @@ Work experience
 Skills
 ======
 * Languages
-  * Python, R, SQL, Matlab, C/C++}
+  * Python, R, SQL, Matlab, C/C++
 * Frameworks
   * NLTK, Scikit-learn, Pytorch, TensorFlow, Keras, Django, Hadoop
 * Tools
