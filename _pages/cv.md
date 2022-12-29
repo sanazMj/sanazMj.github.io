@@ -17,24 +17,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Science Lab (Toronto Metropolitan University)
+  * Postdoctoral researcher (Sep 2022 - Present)
+  * Research Assistant (Sep 2018 - Aug 2022)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Chang School of Continuing Education
+  * Lecturer: 
+    * Designed lectures, exercises, and recorded tutorial videos for the CIND850 deep learning course.
+    * Taught deep learning architectures (e.g., CNNs, RNNs) with practical Keras implementations.
+  * Teaching assistant
+    * Assisted students with implementations of data analytics, predictive models (e.g., SAS, R, Python) and big data (e.g., Hadoop). 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python, R, SQL, Matlab, C/C++}
+* Frameworks
+  * NLTK, Scikit-learn, Pytorch, TensorFlow, Keras, Django, Hadoop
+* Tools
+  * SAS, GIT, MySQL, SQLite, Tableau, Apache Hive
 
 Publications
 ======
@@ -53,5 +54,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+CV File
+======
   [Sanaz_MohammadJafari.pdf](https://github.com/sanazMj/sanazMj.github.io/files/10317513/Sanaz_MohammadJafari.pdf)
 
