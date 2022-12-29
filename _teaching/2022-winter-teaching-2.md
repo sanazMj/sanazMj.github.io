@@ -4,7 +4,6 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2022-winter-teaching-2
 venue: "Data Science and Analytics, Toronto Metropolitan University "
-date: 2022 Winter semester
 location: "toronto, Canada"
 ---
 
