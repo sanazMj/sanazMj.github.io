@@ -1,5 +1,5 @@
 ---
-title: "Using protopnet for interpretable alzheimer’s disease classification"
+title: "Using protopnet for interpretable alzheimers disease classification"
 collection: publications
 permalink: /publication/paper_4
 excerpt: 'This paper is about.'
