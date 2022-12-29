@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2011-2015
+* M.S. in Electrical Engineering, University of Tehran, Tehran, Iran, 2015-2018
+* Ph.D in Data Science, Toronto Metropolitan University (Ryerson University), Toronto, Canada, 2018-2022
 
 Work experience
 ======
@@ -53,7 +53,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  [Sanaz_MohammadJafari.pdf](https://github.com/sanazMj/sanazMj.github.io/files/10317513/Sanaz_MohammadJafari.pdf)
+
